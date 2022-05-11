@@ -2,5 +2,15 @@
   "dependencies": {
     "dotenv": "^16.0.1",
     "revolt.js": "^6.0.0"
-  }
+  },
+  "name": "revoltnodelete",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Slen",
+  "license": "ISC",
+  "description": ""
 }
